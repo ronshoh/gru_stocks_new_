@@ -1,0 +1,5 @@
+*.mat
+documentation*
+*.xml
+__*
+.idea*
